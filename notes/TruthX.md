@@ -5,7 +5,7 @@ https://aclanthology.org/2024.acl-long.483
 这篇论文介绍了一种名为TruthX的新方法，它能够通过编辑大型语言模型（LLM）的内部表征来提高其生成文本的真实性。TruthX通过提取LLM的内部表征，将其映射到语义空间和真实空间，并在真实空间中进行编辑，从而有效地控制LLM的生成文本的真实性。实验结果表明，TruthX能够有效地提高LLM的真实性，并在TruthfulQA基准测试中取得了显著的改进。
 
 # Figures & Tables
-![](attachments/zhang2024truthx-fig2.png)
+![](../attachments/zhang2024truthx-fig2.png)
 
 # Note
 这里写一些心得和备注
