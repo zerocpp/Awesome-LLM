@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "notes/TruthX.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/TruthX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "notes/TruthX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "notes/TruthX.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "9e8b59dd2b5b57c9",
   "lastOpenFiles": [
+    "attachments/2024.acl-long.483.pdf",
+    "README.md",
     "notes/TruthX.md",
     "attachments/zhang2024truthx-fig2.png",
-    "README.md",
     "attachments",
     "zhang2024truthx-fig2.png"
   ]
