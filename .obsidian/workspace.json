@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/synthid-text.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/synthid-text.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/synthid-text.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/synthid-text.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "e9d3f8d1b9382f39",
   "lastOpenFiles": [
-    "notes/TruthX.md",
     "notes/synthid-text.md",
+    "README.md",
+    "notes/TruthX.md",
     "attachments/2024.acl-long.483.pdf",
     "attachments/s41586-024-08025-4.pdf",
-    "README.md",
     "attachments/zhang-etal-2024-truthx-fig1.png",
     "attachments/zhang2024truthx-fig2.png",
     "attachments",
