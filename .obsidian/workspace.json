@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "157c47a211a9816f",
+        "id": "dc4ff16de19d9f9a",
         "type": "tabs",
         "children": [
           {
-            "id": "bcf29a71f51ac543",
+            "id": "a34f5eb3b70fb2a6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachments/zhang2024truthx-fig2.png"
+                "file": "notes/TruthX.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/zhang2024truthx-fig2.png",
+                "file": "notes/TruthX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachments/zhang2024truthx-fig2.png",
+                "file": "notes/TruthX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/zhang2024truthx-fig2.png"
+                "file": "notes/TruthX.md"
               }
             }
           }
@@ -145,12 +147,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37bd75972110e9be",
+  "active": "a34f5eb3b70fb2a6",
   "lastOpenFiles": [
+    "attachments/zhang-etal-2024-truthx-fig1.png",
     "notes/TruthX.md",
-    "README.md",
     "attachments/2024.acl-long.483.pdf",
     "attachments/zhang2024truthx-fig2.png",
+    "README.md",
     "attachments",
     "zhang2024truthx-fig2.png"
   ]
