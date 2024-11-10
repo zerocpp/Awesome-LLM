@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8a10ef84618eb786",
+        "id": "21d9d423610f03d3",
         "type": "tabs",
         "children": [
           {
-            "id": "b94c7af26a0f7f32",
+            "id": "e9d3f8d1b9382f39",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/synthid-text.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/synthid-text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/synthid-text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/synthid-text.md"
+              }
             }
           }
         ]
@@ -139,13 +147,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b94c7af26a0f7f32",
+  "active": "e9d3f8d1b9382f39",
   "lastOpenFiles": [
     "notes/TruthX.md",
-    "attachments/zhang-etal-2024-truthx-fig1.png",
+    "notes/synthid-text.md",
     "attachments/2024.acl-long.483.pdf",
-    "attachments/zhang2024truthx-fig2.png",
+    "attachments/s41586-024-08025-4.pdf",
     "README.md",
+    "attachments/zhang-etal-2024-truthx-fig1.png",
+    "attachments/zhang2024truthx-fig2.png",
     "attachments",
     "zhang2024truthx-fig2.png"
   ]
