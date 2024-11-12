@@ -8,6 +8,8 @@ https://proceedings.neurips.cc/paper_files/paper/2023/hash/a85b405ed65c6477a4fe8
 ```
 
 # Figures & Tables
+![](../attachments/Pasted%20image%2020241112101452.png)
+
 # Citation
 ```
 @inproceedings{NEURIPS2023_a85b405e,

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/DPO.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/DPO.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/DPO.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/DPO.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "e9d3f8d1b9382f39",
   "lastOpenFiles": [
-    "notes/_template.md",
-    "notes/DPO.md",
-    "notes/synthid-text.md",
     "notes/TruthX.md",
+    "notes/DPO.md",
+    "attachments/Pasted image 20241112101452.png",
+    "notes/_template.md",
+    "notes/synthid-text.md",
     "attachments/NeurIPS-2023-direct-preference-optimization-your-language-model-is-secretly-a-reward-model-Paper-Conference.pdf",
     "README.md",
     "attachments/2024.acl-long.483.pdf",
