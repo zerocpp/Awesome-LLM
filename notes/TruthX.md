@@ -9,7 +9,7 @@ https://aclanthology.org/2024.acl-long.483
 # Note
 这里写一些心得和备注
 
-# Cite
+# Citation
 ```
 @inproceedings{zhang-etal-2024-truthx,
     title = "{T}ruth{X}: Alleviating Hallucinations by Editing Large Language Models in Truthful Space",

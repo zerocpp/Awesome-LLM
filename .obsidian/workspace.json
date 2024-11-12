@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "notes/DPO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/DPO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "notes/DPO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "notes/DPO.md"
               }
             }
           }
@@ -149,9 +149,12 @@
   },
   "active": "e9d3f8d1b9382f39",
   "lastOpenFiles": [
+    "notes/_template.md",
+    "notes/DPO.md",
     "notes/synthid-text.md",
-    "README.md",
     "notes/TruthX.md",
+    "attachments/NeurIPS-2023-direct-preference-optimization-your-language-model-is-secretly-a-reward-model-Paper-Conference.pdf",
+    "README.md",
     "attachments/2024.acl-long.483.pdf",
     "attachments/s41586-024-08025-4.pdf",
     "attachments/zhang-etal-2024-truthx-fig1.png",

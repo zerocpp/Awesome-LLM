@@ -9,7 +9,7 @@ https://www.nature.com/articles/s41586-024-08025-4
 # Note
 
 
-# Cite
+# Citation
 ```
 @article{dathathri2024scalable,
   title={Scalable watermarking for identifying large language model outputs},
