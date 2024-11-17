@@ -3,6 +3,8 @@
 ![NICE学术分享33期](../attachments/NICE_Model_Editing_ywl.pdf)
 
 # Note
+**模型编辑的蝴蝶效应**
+
 模型编辑采用ROME方法和MEMIT方法
 用PPL（Perplexity，困惑度）来反映模型状态
 单次编辑就足以导致模型崩溃，连续编辑更甚
@@ -49,3 +51,28 @@ MEMIT 是一种专为 Transformer 架构设计的**批量知识编辑**方法，
 适用场景 单点修复（如纠正单个事实错误） 大规模知识库更新或维护
 
 这两种方法适合不同的模型编辑需求。ROME 更适用于精确地纠正模型知识，而 MEMIT 更适合批量更新场景，例如快速适配模型到新的领域或更新多个过时的事实知识。
+
+# Citation
+```
+@inproceedings{yang-etal-2024-butterfly,
+    title = "The Butterfly Effect of Model Editing: Few Edits Can Trigger Large Language Models Collapse",
+    author = "Yang, Wanli  and
+      Sun, Fei  and
+      Ma, Xinyu  and
+      Liu, Xun  and
+      Yin, Dawei  and
+      Cheng, Xueqi",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.322",
+    doi = "10.18653/v1/2024.findings-acl.322",
+    pages = "5419--5437",
+    abstract = "Although model editing has shown promise in revising knowledge in Large Language Models (LLMs), its impact on the inherent capabilities of LLMs is often overlooked. In this work, we reveal a critical phenomenon: even a single edit can trigger model collapse, manifesting as significant performance degradation in various benchmark tasks. However, benchmarking LLMs after each edit, while necessary to prevent such collapses, is impractically time-consuming and resource-intensive. To mitigate this, we propose using perplexity as a surrogate metric, validated by extensive experiments demonstrating changes in an edited model{'}s perplexity are strongly correlated with its downstream task performances. We further conduct an in-depth study on sequential editing, a practical setting for real-world scenarios, across various editing methods and LLMs, focusing on hard cases from our previous single edit studies. The results indicate that nearly all examined editing methods result in model collapse after only few edits. To facilitate further research, we have utilized GPT-3.5 to develop a new dataset, HardEdit, based on those hard cases. This dataset aims to establish the foundation for pioneering research in reliable model editing and the mechanisms underlying editing-induced model collapse. We hope this work can draw the community{'}s attention to the potential risks inherent in model editing practices.",
+}
+```
