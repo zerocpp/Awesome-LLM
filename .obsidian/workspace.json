@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/The Fall of ROME_ Understanding the Collapse of LLMs in Model Editing.md",
+                "file": "notes/(Talk)模型编辑导致模型崩溃.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/The Fall of ROME_ Understanding the Collapse of LLMs in Model Editing.md",
+                "file": "notes/(Talk)模型编辑导致模型崩溃.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/The Fall of ROME_ Understanding the Collapse of LLMs in Model Editing.md",
+                "file": "notes/(Talk)模型编辑导致模型崩溃.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/The Fall of ROME_ Understanding the Collapse of LLMs in Model Editing.md"
+                "file": "notes/(Talk)模型编辑导致模型崩溃.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "18d3e5e413e487a2",
   "lastOpenFiles": [
-    "README.md",
-    "notes/The Fall of ROME_ Understanding the Collapse of LLMs in Model Editing.md",
-    "notes/The.md",
     "notes/The Butterfly Effect of Model Editing_ Few Edits Can Trigger Large Language Models Collapse.md",
+    "notes/(Talk)模型编辑导致模型崩溃.md",
+    "notes/The Fall of ROME_ Understanding the Collapse of LLMs in Model Editing.md",
+    "README.md",
+    "notes/The.md",
     "notes/DPO.md",
     "attachments/NICE_Model_Editing_ywl.pdf",
     "attachments/Pasted image 20241117103443.png",

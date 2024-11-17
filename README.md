@@ -8,7 +8,5 @@
 - [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](notes/DPO.md)(Rafailov et al., Stanford University, NeurIPS 2023 oral)
 
 # 模型编辑（Model Editing）
-- [The Butterfly Effect of Model Editing_ Few Edits Can Trigger Large Language Models Collapse](notes/The%20Butterfly%20Effect%20of%20Model%20Editing_%20Few%20Edits%20Can%20Trigger%20Large%20Language%20Models%20Collapse.md)(杨万里 et al., 中科院计算所, ACL 2024 Findings)
-- [The Fall of ROME_ Understanding the Collapse of LLMs in Model Editing](notes/The%20Fall%20of%20ROME_%20Understanding%20the%20Collapse%20of%20LLMs%20in%20Model%20Editing.md)(杨万里 et al., 中科院计算所, EMNLP 2024 Findings)
-
+- [(Talk)模型编辑导致模型崩溃](notes/(Talk)模型编辑导致模型崩溃.md)(杨万里 et al., 中科院计算所, ACL 2024 Findings & EMNLP 2024 Findings)
 
