@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "notes/The Butterfly Effect of Model Editing_ Few Edits Can Trigger Large Language Models Collapse.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/The Butterfly Effect of Model Editing_ Few Edits Can Trigger Large Language Models Collapse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "notes/The Butterfly Effect of Model Editing_ Few Edits Can Trigger Large Language Models Collapse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "notes/The Butterfly Effect of Model Editing_ Few Edits Can Trigger Large Language Models Collapse.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "18d3e5e413e487a2",
   "lastOpenFiles": [
-    "notes/The Butterfly Effect of Model Editing_ Few Edits Can Trigger Large Language Models Collapse.md",
     "README.md",
+    "notes/The Butterfly Effect of Model Editing_ Few Edits Can Trigger Large Language Models Collapse.md",
     "notes/DPO.md",
     "attachments/NICE_Model_Editing_ywl.pdf",
     "attachments/Pasted image 20241117103443.png",
