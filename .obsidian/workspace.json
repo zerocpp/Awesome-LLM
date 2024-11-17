@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21d9d423610f03d3",
+        "id": "4b5575a75ee88abc",
         "type": "tabs",
         "children": [
           {
-            "id": "e9d3f8d1b9382f39",
+            "id": "18d3e5e413e487a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,15 +147,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9d3f8d1b9382f39",
+  "active": "18d3e5e413e487a2",
   "lastOpenFiles": [
+    "README.md",
     "notes/TruthX.md",
     "notes/DPO.md",
     "attachments/Pasted image 20241112101452.png",
     "notes/_template.md",
     "notes/synthid-text.md",
     "attachments/NeurIPS-2023-direct-preference-optimization-your-language-model-is-secretly-a-reward-model-Paper-Conference.pdf",
-    "README.md",
     "attachments/2024.acl-long.483.pdf",
     "attachments/s41586-024-08025-4.pdf",
     "attachments/zhang-etal-2024-truthx-fig1.png",
