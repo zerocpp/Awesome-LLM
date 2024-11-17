@@ -9,8 +9,6 @@
 
 # 模型编辑（Model Editing）
 - [The Butterfly Effect of Model Editing_ Few Edits Can Trigger Large Language Models Collapse](notes/The%20Butterfly%20Effect%20of%20Model%20Editing_%20Few%20Edits%20Can%20Trigger%20Large%20Language%20Models%20Collapse.md)(杨万里 et al., 中科院计算所, ACL 2024 Findings)
+- [The Fall of ROME_ Understanding the Collapse of LLMs in Model Editing](notes/The%20Fall%20of%20ROME_%20Understanding%20the%20Collapse%20of%20LLMs%20in%20Model%20Editing.md)(杨万里 et al., 中科院计算所, EMNLP 2024 Findings)
 
-(杨万里 et al., 中科院计算所, EMNLP 2024 Findings)
-Why does the **first token** have a different representation?
-- 可能是自回归模型的自交互导致的
-- Position Embedding可能会导致崩溃，但不是决定性影响
+
