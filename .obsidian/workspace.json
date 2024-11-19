@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4b5575a75ee88abc",
+        "id": "186bd5947b4d42f3",
         "type": "tabs",
         "children": [
           {
-            "id": "18d3e5e413e487a2",
+            "id": "5541bf0b516c68a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "notes/INSIDE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/INSIDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "notes/INSIDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "notes/INSIDE.md"
               }
             }
           }
@@ -147,10 +147,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18d3e5e413e487a2",
+  "active": "5541bf0b516c68a0",
   "lastOpenFiles": [
-    "notes/Can Knowledge Editing Really Correct Hallucinations?.md",
     "README.md",
+    "notes/INSIDE.md",
+    "().md",
+    "notes/Can Knowledge Editing Really Correct Hallucinations?.md",
     "notes/(Talk)模型编辑导致模型崩溃.md",
     "notes/The Butterfly Effect of Model Editing_ Few Edits Can Trigger Large Language Models Collapse.md",
     "notes/The Fall of ROME_ Understanding the Collapse of LLMs in Model Editing.md",
